@@ -1,0 +1,15 @@
+.app {
+   display: flex;
+   width: 1200px;
+   height: 700px;
+   justify-content: center;
+   align-items: flex-start;
+   gap: 20px;
+   padding: 30px;
+   flex-direction: row;
+}
+
+.app2 {
+   height: 100vh;
+   width: 100%;
+}
